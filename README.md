@@ -1,6 +1,7 @@
-# Application de Messagerie
+# Application de Messagerie Tẽngo 
 
-Bienvenue sur notre application de messagerie !
+Bienvenue sur notre application de messagerie Tẽngo 
+ !
 
 ## 🌐 Version Web
 
