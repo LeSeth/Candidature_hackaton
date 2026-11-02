@@ -1,20 +1,24 @@
-
+# Application de Messagerie
 
 Bienvenue sur notre application de messagerie !
 
-Cette application permet aux utilisateurs de communiquer et de partager des contenus à travers une interface simple et accessible.
+## 🌐 Version Web
 
-## 🌐 Accéder à la version Web
+Consultez et utilisez directement l'application depuis votre navigateur :
 
-Utilisez directement notre application depuis votre navigateur, sans installation.
+👉 [Accéder à la messagerie Web](https://leseth.github.io/Candidature_hackaton/)
 
-👉 **[Accéder à la messagerie Web](https://leseth.github.io/Candidature_hackaton/)**
+## 📱 Version Android (APK)
 
-## 📥 Télécharger l'application Android
+Téléchargez le fichier APK pour installer l'application sur votre smartphone Android :
 
-Vous pouvez également installer l'application sur votre smartphone Android.
+👉 [Télécharger Messagerie.apk](https://github.com/LeSeth/Candidature_hackaton/releases/download/v1.0.0/Messagerie.apk)
 
-👉 **Nous sommes d'abord au niveau des tests fermés avec playstore donc pour pouvoir telecharger l'apk, veuillez voir au niveau des dossiers vous verrez "Messagerie.apk"**
+## 📌 Disponibilité
 
-Après le téléchargement, ouvrez le fichier APK pour installer l'application sur votre téléphone.
+- **Web :** accessible directement en ligne.
+- **Android :** disponible au téléchargement au format APK.
 
+---
+
+**Merci d'utiliser notre application de messagerie !**
