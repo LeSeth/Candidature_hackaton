@@ -1,6 +1,6 @@
 {
-    "name": "messagerie_app",
-    "short_name": "messagerie_app",
+    "name": "Tẽngo",
+    "short_name": "Tẽngo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1A120B",
